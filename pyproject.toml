@@ -1,0 +1,7 @@
+[project]
+name = "molkars-scripts"
+
+[tool.pyright]
+include = ["."]
+reportMissingImports = true
+
